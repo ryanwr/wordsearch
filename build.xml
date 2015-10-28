@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="wordsearch" default="all">
+  
+  
+  <property file="build.properties"/>
+  <!-- Uncomment the following property if no tests compilation is needed -->
+  <!-- 
+  <property name="skip.tests" value="true"/>
+   -->
+  
+  <!-- Compiler options -->
+  
+  <property name="compiler.debug" value="on"/>
+  <property name="compiler.generate.no.warnings" value="off"/>
+  <property name="compiler.args" value=""/>
+  <property name="compiler.max.memory" value="700m"/>
+  <patternset id="ignored.files">
+    <exclude name="**/*.hprof/**"/>
+    <exclude name="**/*.pyc/**"/>
+    <exclude name="**/*.pyo/**"/>
+    <exclude name="**/*.rbc/**"/>
+    <exclude name="**/*~/**"/>
+    <exclude name="**/.DS_Store/**"/>
+    <exclude name="**/.bundle/**"/>
+    <exclude name="**/.git/**"/>
+    <exclude name="**/.hg/**"/>
+    <exclude name="**/.svn/**"/>
+    <exclude name="**/.tox/**"/>
+    <exclude name="**/CVS/**"/>
+    <exclude name="**/RCS/**"/>
+    <exclude name="**/SCCS/**"/>
+    <exclude name="**/__pycache__/**"/>
+    <exclude name="**/_svn/**"/>
+    <exclude name="**/rcs/**"/>
+    <exclude name="**/vssver.scc/**"/>
+    <exclude name="**/vssver2.scc/**"/>
+  </patternset>
+  <patternset id="library.patterns">
+    <include name="*.zip"/>
+    <include name="*.apk"/>
+    <include name="*.war"/>
+    <include name="*.egg"/>
+    <include name="*.ear"/>
+    <include name="*.ane"/>
+    <include name="*.swc"/>
+    <include name="*.jar"/>
+  </patternset>
+  <patternset id="compiler.resources">
+    <exclude name="**/?*.java"/>
+    <exclude name="**/?*.form"/>
+    <exclude name="**/?*.class"/>
+    <exclude name="**/?*.groovy"/>
+    <exclude name="**/?*.scala"/>
+    <exclude name="**/?*.flex"/>
+    <exclude name="**/?*.kt"/>
+    <exclude name="**/?*.clj"/>
+    <exclude name="**/?*.aj"/>
+  </patternset>
+  
+  <!-- Modules -->
+  
+  
+  <!-- Module wordsearch -->
+  
+  <dirname property="module.wordsearch.basedir" file="${ant.file}"/>
+  
+  
+  
+  <property name="compiler.args.wordsearch" value="-encoding windows-1252 -source 8 ${compiler.args}"/>
+  
+  <property name="wordsearch.output.dir" value="${module.wordsearch.basedir}/out/production/wordsearch"/>
+  <property name="wordsearch.testoutput.dir" value="${module.wordsearch.basedir}/out/test/wordsearch"/>
+  
+  <path id="wordsearch.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="wordsearch.module.production.classpath"/>
+  
+  <path id="wordsearch.runtime.production.module.classpath">
+    <pathelement location="${wordsearch.output.dir}"/>
+  </path>
+  
+  <path id="wordsearch.module.classpath">
+    <pathelement location="${wordsearch.output.dir}"/>
+  </path>
+  
+  <path id="wordsearch.runtime.module.classpath">
+    <pathelement location="${wordsearch.testoutput.dir}"/>
+    <pathelement location="${wordsearch.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.wordsearch">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.wordsearch">
+    <patternset refid="excluded.from.module.wordsearch"/>
+  </patternset>
+  
+  <path id="wordsearch.module.sourcepath">
+    <dirset dir="${module.wordsearch.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.wordsearch" depends="compile.module.wordsearch.production,compile.module.wordsearch.tests" description="Compile module wordsearch"/>
+  
+  <target name="compile.module.wordsearch.production" description="Compile module wordsearch; production classes">
+    <mkdir dir="${wordsearch.output.dir}"/>
+    <javac destdir="${wordsearch.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true">
+      <compilerarg line="${compiler.args.wordsearch}"/>
+      <bootclasspath refid="wordsearch.module.bootclasspath"/>
+      <classpath refid="wordsearch.module.production.classpath"/>
+      <src refid="wordsearch.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.wordsearch"/>
+    </javac>
+    
+    <copy todir="${wordsearch.output.dir}">
+      <fileset dir="${module.wordsearch.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.wordsearch.tests" depends="compile.module.wordsearch.production" description="compile module wordsearch; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.wordsearch" description="cleanup module">
+    <delete dir="${wordsearch.output.dir}"/>
+    <delete dir="${wordsearch.testoutput.dir}"/>
+  </target>
+  
+  <target name="init" description="Build initialization">
+    <!-- Perform any build initialization in this target -->
+  </target>
+  
+  <target name="clean" depends="clean.module.wordsearch" description="cleanup all"/>
+  
+  <target name="build.modules" depends="init, clean, compile.module.wordsearch" description="build all modules"/>
+  
+  <target name="init.artifacts">
+    <property name="artifacts.temp.dir" value="${basedir}/__artifacts_temp"/>
+    <property name="artifact.output.wordsearch:jar" value="${basedir}/out/artifacts/wordsearch_jar"/>
+    <mkdir dir="${artifacts.temp.dir}"/>
+    <property name="temp.jar.path.wordsearch.jar" value="${artifacts.temp.dir}/wordsearch.jar"/>
+  </target>
+  
+  <target name="artifact.wordsearch:jar" depends="init.artifacts, compile.module.wordsearch" description="Build &#39;wordsearch:jar&#39; artifact">
+    <property name="artifact.temp.output.wordsearch:jar" value="${artifacts.temp.dir}/wordsearch_jar"/>
+    <mkdir dir="${artifact.temp.output.wordsearch:jar}"/>
+    <jar destfile="${temp.jar.path.wordsearch.jar}" duplicate="preserve" filesetmanifest="mergewithoutmain">
+      <zipfileset dir="${wordsearch.output.dir}"/>
+    </jar>
+    <copy file="${temp.jar.path.wordsearch.jar}" tofile="${artifact.temp.output.wordsearch:jar}/wordsearch.jar"/>
+  </target>
+  
+  <target name="build.all.artifacts" depends="artifact.wordsearch:jar" description="Build all artifacts">
+    <mkdir dir="${artifact.output.wordsearch:jar}"/>
+    <copy todir="${artifact.output.wordsearch:jar}">
+      <fileset dir="${artifact.temp.output.wordsearch:jar}"/>
+    </copy>
+    
+    <!-- Delete temporary files -->
+    <delete dir="${artifacts.temp.dir}"/>
+  </target>
+  
+  <target name="all" depends="build.modules, build.all.artifacts" description="build all"/>
+</project>

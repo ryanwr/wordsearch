@@ -1,0 +1,536 @@
+
+Bletchley Park
+From Wikipedia, the free encyclopedia
+Bletchley Park
+Bletchley Park - Draco2008.jpg
+The Mansion
+Established	1938 (as a code-breaking centre); 1993 (as a museum)
+Location	Bletchley, Milton Keynes, Buckinghamshire, England
+Coordinates	51.9965°N 0.7428°WCoordinates: 51.9965°N 0.7428°W
+Director	Iain Standen
+Public transit access	Bletchley railway station
+Website	www.bletchleypark.org.uk
+BletchleyPark is located in England BletchleyParkBletchley
+Park
+Location in England
+Bletchley Park, in Milton Keynes, Buckinghamshire, England, was the central site of the United Kingdom's Government Code and Cypher School (GC&CS), which during the Second World War regularly penetrated the secret communications of the Axis Powers – most importantly the German Enigma and Lorenz ciphers.
+
+The official historian of World War II British Intelligence has written that the "Ultra" intelligence produced at Bletchley shortened the war by two to four years, and that without it the outcome of the war would have been uncertain.[1] The site is now an educational and historical attraction memorialising and celebrating those accomplishments.
+
+Contents  [hide]
+1 Site
+2 Personnel
+3 Secrecy
+4 Early work
+5 Intelligence reporting
+6 Listening stations
+7 Additional buildings
+7.1 Huts
+7.2 Blocks
+8 Work on specific countries' signals
+8.1 German signals
+8.2 Italian signals
+8.3 Soviet signals
+8.4 Japanese signals
+9 Post war
+9.1 Continued secrecy
+9.2 Site
+10 Museum
+10.1 National Museum of Computing
+10.2 RSGB National Radio Centre
+10.3 Funding
+11 In popular culture
+12 Location
+13 See also
+14 References
+15 External links
+Site[edit]
+
+The stableyard cottages
+Fifty miles (80 km) northwest of London, the site appears in the Domesday Book as part of the Manor of Eaton. Browne Willis built a mansion there in 1711, but after Thomas Harrison purchased the property in 1793 this was pulled down. It was first known as Bletchley Park after its purchase by Samuel Lipscomb Seckham in 1877.[2] The estate of 581 acres (235 ha) was bought in 1883 by Sir Herbert Samuel Leon, who expanded the then-existing farmhouse[3] into the present "maudlin and monstrous pile"[4] combining Victorian Gothic, Tudor, and Dutch Baroque styles.
+
+In 1938, the mansion and much of the site was bought by a builder planning a housing estate, but in May 1938 Admiral Sir Hugh Sinclair, head of the Secret Intelligence Service (SIS or MI6) bought the mansion and 58 acres (23 ha) for use by GC&CS and SIS in the event of war.[5]
+
+A key advantage seen by Sinclair and his colleagues (inspecting the site under the cover of "Captain Ridley's shooting party")[6] was Bletchley's geographical centrality. It was almost immediately adjacent to Bletchley railway station, where the "Varsity Line" between Oxford and Cambridge – whose universities were expected to supply many of the code-breakers – met the main West Coast railway line connecting London, Birmingham, Manchester, Liverpool, Glasgow and Edinburgh. Watling Street, the main road linking London to the north-west (now the A5) was close by, and high-volume communication links were available at the telegraph and telephone repeater station in nearby Fenny Stratford.
+
+Bletchley Park was known as "B.P." to those who worked there.[7] "Station X" (X = Roman numeral ten), "London Signals Intelligence Centre", and "Government Communications Headquarters" were all cover names used during the war.[8] (The formal posting of the many "Wrens" – members of the Women's Royal Naval Service – working there was to HMS Pembroke V.)
+
+Personnel[edit]
+
+Stephen Kettle's 2007 statue of Alan Turing
+The Enigma
+cipher machine
+Enigma-logo.svg
+Enigma machine
+Enigma rotors
+Breaking Enigma
+Polish Cipher Bureau
+Doubles
+Grill
+Clock
+Cyclometer
+Bomba
+Zygalski sheets
+Bletchley Park
+Banburismus
+Herivel tip
+Crib
+Bombe
+Hut 6
+Hut 8
+PC Bruno
+Ultra
+v t e
+Commander Alastair Denniston was operational head of GC&CS from 1919 to 1942, beginning with its formation from the Admiralty's Room 40 (NID25) and the War Office's MI1b.[9] Key GC&CS cryptanalysts who moved from London to Bletchley Park included John Tiltman, Dillwyn "Dilly" Knox, Josh Cooper, and Nigel de Grey. These people had a variety of backgrounds – linguists, chess champions, and crossword experts were common, and in Knox's case papyrology.
+
+On the day Britain declared war on Germany, Denniston wrote to the Foreign Office about recruiting "men of the professor type".[10] Personal networking drove early recruitments, particularly of men from the universities of Cambridge and Oxford. Trustworthy women were similarly recruited for administrative and clerical jobs.[11] In one 1941 recruiting stratagem The Daily Telegraph was asked to organise a crossword competition, after which promising contestants were discreetly approached about "a particular type of work as a contribution to the war effort".[12]
+
+Denniston recognised, however, that the enemy's use of electromech­anical cipher machines meant that formally trained mathematicians would be needed as well;[13] Oxford's Peter Twinn joined GC&CS in February 1939;[14] Cambridge's Alan Turing[15] and Gordon Welchman[16] began training in 1938 and reported to Bletchley the day after war was declared, along with John Jeffreys. Later-recruited cryptanalysts included the mathematicians Derek Taunt,[17] Jack Good,[18] Bill Tutte,[19] and Max Newman; historian Harry Hinsley, and chess champions Hugh Alexander and Stuart Milner-Barry.[20] Joan Clarke (eventually deputy head of Hut 8) was one of the few women employed at Bletchley as a full-fledged cryptanalyst.[21][22]
+
+This eclectic staff of "Boffins and Debs"[23] caused GC&CS to be whimsically dubbed the "Golf, Cheese and Chess Society",[24] with the female staff in Dilwyn Knox's section sometimes termed "Dilly's Fillies".[25] During a September 1941 morale-boosting visit, Winston Churchill reportedly remarked to Denniston: "I told you to leave no stone unturned to get staff, but I had no idea you had taken me so literally."[26] Six weeks later, having failed to get sufficient typing and unskilled staff to achieve the productivity that was possible, Turing, Welchman, Alexander and Milner-Barry wrote directly to Churchill. His response was "Action this day make sure they have all they want on extreme priority and report to me that this has been done."[27]
+
+After initial training at the Inter-Service Special Intelligence School set up by John Tiltman (initially at an RAF depot in Buckingham and later in Bedford – where it was known locally as "the Spy School")[28] staff worked a six-day week, rotating through three shifts: 4 p.m. to midnight, midnight to 8 a.m. (the most disliked shift), and 8 a.m. to 4 p.m., each with a half-hour meal break. At the end of the third week a worker went off at 8 a.m. and came back at 4 p.m., thus putting in sixteen hours on that last day. The irregular hours affected workers' health and social life, as well as the routines of the nearby homes at which most staff lodged. The work was tedious and demanded intense concentration; staff got one week's leave four times a year, but some "girls" collapsed and required extended rest.[29] A small number of men (e.g. Post Office experts in Morse code or German) worked part-time.
+
+In January 1945, at the peak of codebreaking efforts, some 9,000 personnel were working at Bletchley;[28] over 12,000 different persons (some 80% of them women, primarily seconded from Britain's armed forces and Civil Service[30]) were assigned there at various points throughout the war.
+
+Secrecy[edit]
+Properly used, the German Enigma and Lorenz ciphers should have been virtually unbreakable, but flaws in German cryptographic procedures, and poor discipline among the personnel carrying them out, created vulnerabilities which made Bletchley's attacks just barely feasible. These vulnerabilities, however, could have been remedied by relatively simple improvements in enemy procedures,[31] and such changes would certainly have been implemented had Germany any hint of Bletchley's success. Thus the intelligence Bletchley produced was considered wartime Britain's "Ultra secret" – higher even than the normally highest classification Most Secret?[32] – and security was paramount.
+
+Few outside Bletchley knew its mission, and even fewer (inside or outside) understood the breadth of that mission and the extent of its success.[citation needed] All staff signed the Official Secrets Act (1939) and a 1942 security warning emphasised the importance of discretion even within Bletchley itself: "Do not talk at meals. Do not talk in the transport. Do not talk travelling. Do not talk in the billet. Do not talk by your own fireside. Be careful even in your Hut ..."[33]
+
+In addition, any commander in the field receiving Ultra intelligence was fed a cover story crediting a non-Ultra source; at times sham scouting missions – intentionally visible to the enemy – were dispatched to "discover" German positions in fact already known from Ultra.[citation needed] In some cases it was impossible to act on Ultra intelligence at all because to do so might suggest to the enemy that their communications had been penetrated,[citation needed][clarification needed] though certain claims that the British authorities refused, for this reason, to take steps to protect civilians from imminent harm have been vigorously disputed – see, for example, Coventry Blitz.
+
+Early work[edit]
+
+Flow of information from an intercepted Enigma message[34]
+Turing, Knox, and Jeffreys did their early work[clarification needed] in Number 3 Cottage.
+
+The first personnel of the Government Code and Cypher School (GC&CS) moved to Bletchley Park on 15 August 1939. The Naval, Military, and Air Sections were on the ground floor of the mansion, together with a telephone exchange, teleprinter room, kitchen, and dining room; the top floor was allocated to MI6. Construction of the wooden huts began,[when?] and Elmers School, a neighbouring boarding school, was acquired for the Commercial and Diplomatic Sections.[35]
+
+After the United States joined the war a number of American cryptographers were posted to Hut 3, and from May 1943 onwards there was close co-operation between British and American intelligence.[36] (See 1943 BRUSA Agreement.) In contrast the Soviet Union was never officially told of Bletchley Park and its activities – a reflection of Churchill's distrust of the Soviets even during the US-UK-USSR alliance imposed by the Nazi threat.
+
+The only direct enemy damage to the site was done 20–21 November 1940 by three bombs probably intended for Bletchley railway station; Hut 4, shifted two feet off its foundation, was winched back into place as work inside continued.[37]
+
+Intelligence reporting[edit]
+
+Signals to Commands Abroad[clarification needed] [38]
+Non-naval Enigma messages were deciphered in Hut 6, followed by translation, indexing and cross-referencing, in Hut 3. Only then was it sent out to the Secret Intelligence Service (MI6), the intelligence chiefs in the relevant ministries, and later on to high-level commanders in the field.[39]
+
+Naval Enigma deciphering was in Hut 8, with translation in Hut 4. Verbatim translations were sent only to the Naval Intelligence Division (NID) of the Admiralty's Operational Intelligence Centre (OIC), supplemented by information from indexes as to the meaning of technical terms and cross-references from a knowledge store of German naval technology.[40]
+
+Hut 4 also decoded a manual system known as the dockyard cipher, which sometimes carried messages that were also sent on an Enigma network. Feeding these back to Hut 8 provided excellent "cribs" for Known-plaintext attacks on the daily naval Enigma key.[41]
+
+Listening stations[edit]
+Initially, a wireless room was established at Bletchley Park. It was set up in the mansion's water tower under the code name "Station X",[42] a term now sometimes applied to the codebreaking efforts at Bletchley as a whole. The "X" is the Roman numeral "ten", this being the Secret Intelligence Service's tenth such station. Due to the long radio aerials stretching from the wireless room, the radio station was moved from Bletchley Park to nearby Whaddon Hall to avoid drawing attention to the site.[43][44]
+
+Subsequently, other listening stations – the Y-stations, such as the ones at Chicksands in Bedfordshire, Beaumanor Hall, Leicestershire (where the headquarters of the War Office "Y" Group was located) and Beeston Hill Y Station in Norfolk – gathered raw signals for processing at Bletchley. Coded messages were taken down by hand and sent to Bletchley on paper by motorcycle despatch riders or (later) by teleprinter. Bletchley Park is mainly remembered for breaking the German Enigma cypher, but its greatest cryptographic achievement may have been[citation needed] the breaking of the German on-line teleprinter Lorenz cipher (known at GC&CS as Tunny).
+
+Additional buildings[edit]
+The wartime needs required the building of additional accommodation.[45]
+
+Huts[edit]
+
+Hut 1
+
+Hut 4, adjacent to the mansion, is now a bar and restaurant for the museum.
+
+Hut 6 in 2004
+Often a hut's number became so strongly associated with the work performed inside that even when the work was moved to another building it was still referred to by the original "Hut" designation.[46][47] are:
+
+Hut 1: The first hut, built in 1939[48] used to house the Wireless Station for a short time,[42] later administrative functions such as transport, typing, and Bombe maintenance. The first Bombe, "Victory", was initially housed here.[49]
+Hut 2: A recreational hut for "beer, tea, and relaxation".[50]
+Hut 3: Intelligence: translation and analysis of Army and Air Force decrypts[51]
+Hut 4: Naval intelligence: analysis of Naval Enigma and Hagelin decrypts[52]
+Hut 5: Military intelligence including Italian, Spanish, and Portuguese ciphers and German police codes.[53]
+Hut 6: Cryptanalysis of Army and Air Force Enigma[54]
+Hut 7: Cryptanalysis of Japanese naval codes and intelligence.[55][56]
+Hut 8: Cryptanalysis of Naval Enigma.[40]
+Hut 9: ISOS (Intelligence Section Oliver Strachey).
+Hut 10: Secret Intelligence Service (SIS or MI6) codes, Air and Meteorological sections.[57]
+Hut 11: Bombe building.[58]
+Hut 14: Communications centre.[59]
+Hut 15: SIXTA (Signals Intelligence and Traffic Analysis).
+Hut 16: ISK (Intelligence Service Knox) Abwehr ciphers.
+Hut 18: ISOS (Intelligence Section Oliver Strachey).
+Hut 23: Primarily used to house the engineering department. After February 1943, Hut 3 was renamed Hut 23 (the reason it was not named Hut 13 in a similar way to the other huts, was due to the belief that the number 13 was unlucky).[citation needed]
+Blocks[edit]
+In addition to the wooden huts there were a number of brick-built "blocks".
+
+Block A: Naval Intelligence.
+Block B: Italian Air and Naval, and Japanese code breaking.
+Block C: Stored the substantial punch-card index.
+Block D: Enigma work, extending that in huts 3, 6, and 8.
+Block E: Incoming and outgoing Radio Transmission and TypeX.
+Block F: Included the Newmanry and Testery, and Japanese Military Air Section. It has since been demolished.
+Block G: Traffic analysis and deception operations.
+Block H: Tunny and Colossus (now The National Museum of Computing).
+Work on specific countries' signals[edit]
+German signals[edit]
+
+Bletchley's Polish Memorial, commemorating "the [prewar] work of Marian Rejewski, Jerzy Ró?ycki and Henryk Zygalski, mathematicians of the Polish intelligence service, in first breaking the Enigma code. Their work greatly assisted the Bletchley Park code breakers and contributed to the Allied victory in World War II."
+Most German messages decrypted at Bletchley were produced by one or another version of the Enigma cipher machine, but an important minority were produced by the even more complicated twelve-rotor Lorenz SZ42 on-line teleprinter cipher machine.
+
+See also: Cryptanalysis of the Enigma
+Five weeks before the outbreak of war, in Warsaw, Poland's Cipher Bureau revealed its achievements in breaking Enigma to astonished French and British personnel.[31] The British used the Poles' information and techniques, and the Enigma clone sent to them in August 1939, which greatly increased their (previously very limited) success in decrypting Enigma messages.[60]
+
+
+The working rebuilt bombe, built by a team led by John Harper[61] and switched on by the Duke of Kent, patron of the British Computer Society, on 17 July 2008
+The bombe was an electromech­anical device whose function was to discover some of the daily settings of the Enigma machines on the various German military networks.[62][63][64] Its pioneering design was developed by Alan Turing (with an important contribution from Gordon Welchman) and the machine was engineered by Harold 'Doc' Keen of the British Tabulating Machine Company. Each machine was about 7 feet (2.1 m) high and wide, 2 feet (0.61 m) deep and weighed about a ton.[65]
+
+At its peak, GC&CS was reading approximately 4,000 messages per day.[66] As a hedge against enemy attack[67] most bombes were dispersed to installations at Adstock and Wavendon (both later supplanted by installations at Stanmore and Eastcote), and Gayhurst.[68][69]
+
+Luftwaffe messages were the first to be read in quantity. The German navy had much tighter procedures, and the capture of code books was needed before they could be broken. When, in February 1942, the German navy introduced the four-rotor Enigma for communications with its Atlantic U-boats, this traffic became unreadable for a period of ten months.[70] Britain produced modified bombes, but it was the success of the US Navy bombe that was the main source of reading messages from this version of Enigma for the rest of the war. Messages were sent to and fro across the Atlantic by enciphered teleprinter links.
+
+See also: Cryptanalysis of the Lorenz cipher
+
+A Mark 2 Colossus computer. The ten Colossi were the world's first (semi-) programmable electronic computers, the first having been built in 1943
+The Lorenz messages were codenamed Tunny at Bletchley Park. They were only sent in quantity from mid-1942. The Tunny networks were used for high-level messages between German High Command and field commanders. With the help of German operator errors, the cryptanalysts in the Testery (named after Ralph Tester, its head) worked out the logical structure of the machine despite not knowing its physical form. They devised automatic machinery to help with decryption, which culminated in Colossus, the world's first programmable digital electronic computer. This was designed and built by Tommy Flowers and his team at the Post Office Research Station at Dollis Hill. The first was delivered to Bletchley Park in December 1943 and commissioned the following February. Enhancements were developed for the Mark 2 Colossus, the first of which was working at Bletchley Park on the morning of D-day in June. Flowers then produced one Colossus a month for the rest of the war, making a total of ten with an eleventh part-built. The machines were operated mainly by Wrens in a section named the Newmanry after its head Max Newman.
+
+Bletchley's work was essential to defeating the U-boats in the Battle of the Atlantic, and to the British naval victories in the Battle of Cape Matapan and the Battle of North Cape. In 1941, Ultra exerted a powerful effect on the North African desert campaign against German forces under General Erwin Rommel. General Sir Claude Auchinleck wrote that were it not for Ultra, "Rommel would have certainly got through to Cairo". While not changing the events, "Ultra" decrypts featured prominently in the story of Operation SALAM, László Almásy's daring mission across the Libyan Desert behind enemy lines in 1942.[71] Prior to the Normandy landings on D-Day in June 1944, the Allies knew the locations of all but two of Germany's fifty-eight Western-front divisions.
+
+Italian signals[edit]
+See also: Cryptanalysis of the Enigma
+Italian signals had been of interest since Italy's attack on Abyssinia in 1935. During the Spanish Civil War the Italian Navy used the K model of the commercial Enigma without a plugboard; this was solved by Knox in 1937. When Italy entered the war in 1940 an improved version of the machine was used, though little traffic was sent by it and there were "wholesale changes" in Italian codes and cyphers. Knox was given a new section for work on Enigma variations, which he staffed with women ("Dilly's girls") who included Margaret Rock, Jean Perrin, Clare Harding, Rachel Ronald, Elisabeth Granger; and Mavis Lever[72] – who made the first break into the Italian naval traffic. She solved the signals revealing the Italian Navy's operational plans before the Battle of Cape Matapan in 1941, leading to a British victory. Although most Bletchley staff did not know the results of their work, Admiral Cunningham visited Bletchley in person a few weeks later to congratulate them.[73]
+
+On entering World War II in June 1940, the Italians were using book codes for most of their military messages. The exception was the Italian Navy, which after the Battle of Cape Matapan started using the C-38 version of the Boris Hagelin rotor-based cipher machine, particularly to route their navy and merchant marine convoys to the conflict in North Africa.[74] As a consequence, JRM Butler recruited his former student Bernard Willson to join a team with two others in Hut 4.[75][76] In June 1941, Willson became the first of the team to decode the Hagelin system, thus enabling military commanders to direct the Royal Navy and Royal Air Force to sink enemy ships carrying supplies from Europe to Rommel's Afrika Korps. This led to increased shipping losses and, from reading the intercepted traffic, the team learnt that between May and September 1941 the stock of fuel for the Luftwaffe in North Africa reduced by 90%.[77] After an intensive language course, in March 1944 Willson switched to Japanese language-based codes.[78]
+
+A Middle East Intelligence Centre (MEIC) was set up in Cairo in 1939. When Italy entered the war in June 1940, delays in forwarding intercepts to Bletchley via congested radio links resulted in cryptanalysts being sent to Cairo. A Combined Bureau Middle East (CBME) was set up in November, though the Middle East authorities made "increasingly bitter complaints" that GC&CS was giving too little priority to work on Italian cyphers. However, the principle of concentrating high-grade cryptanalysis at Bletchley was maintained.[79] John Chadwick started cryptanalysis work in 1942 on Italian signals at the naval base 'HMS Nile' in Alexandria. Later he was with GC&CS; in the Heliopolis Museum, Cairo and then in the Villa Laurens, Alexandria.
+
+Soviet signals[edit]
+Soviet signals had been studied since the 1920s. In 1939–40 John Tiltman (who had worked on Russian Army traffic from 1930) set up two Russian sections at Wavendon (a country house near Bletchley) and at Sarafand in Palestine. Two Russian high-grade army and navy systems were broken.[when?][clarification needed] Tiltman spent two weeks in Finland, where he obtained Russian traffic from Finland and Estonia in exchange for radio equipment. In June 1941 when the Soviet Union became an ally, Churchill ordered a halt to intelligence operations against it. In December 1941 the Russian section was closed down, but in late summer 1943 or late 1944 a small GC&CS Russian cypher section was set up in London overlooking Park Lane then in Sloane Square.[80]
+
+Japanese signals[edit]
+An outpost of the Government Code and Cypher School had been set up in Hong Kong in 1935, the Far East Combined Bureau (FECB). The FECB naval staff moved in 1940 to Singapore, then Colombo, Ceylon, then Kilindini, Mombasa, Kenya. They succeeded in deciphering Japanese codes with a mixture of skill and good fortune.[81] The Army and Air Force staff went from Singapore to the Wireless Experimental Centre at Delhi, India.
+
+In early 1942, a six-month crash course in Japanese, for 20 undergraduates from Oxford and Cambridge, was started by the Inter-Services Special Intelligence School in Bedford, in a building across from the main Post Office. This course was repeated every six months until war's end. Most of those completing these courses worked on decoding Japanese naval messages in Hut 7, under John Tiltman.
+
+By mid-1945 well over 100 personnel were involved with this operation, which co-operated closely with the FECB and the US Signal intelligence Service at Arlington Hall, Virginia. Because of these joint efforts, by August of that year the Japanese merchant navy was suffering 90% losses at sea.[citation needed] In 1999, Michael Smith wrote that: "Only now are the British codebreakers (like John Tiltman, Hugh Foss, and Eric Nave) beginning to receive the recognition they deserve for breaking Japanese codes and cyphers".[82]
+
+Post war[edit]
+Continued secrecy[edit]
+Much of Bletchley's equipment and documents was destroyed at the end of the war,[clarification needed] and the secrecy imposed on Bletchley staff remained in force, so that most relatives never knew more than that a child, spouse, or parent had done some kind of secret war work,[83] or were told a cover story about clerical or statistical work.[citation needed] Churchill referred to the Bletchley staff as "the geese that laid the golden eggs and never cackled".[84] That said, occasional mentions of the work performed at Bletchley Park slipped the censor's net and appeared in print.[85]
+
+With the publication of F. W. Winterbotham's The Ultra Secret (1974)[86] public discussion of Bletchley's work finally became possible (though even today some former staff still consider themselves bound to silence)[87] and in July 2009 the British government announced that Bletchley personnel would be recognised with a commemorative badge.[88]
+
+Site[edit]
+After the war, the site passed through a succession of hands[89] and saw a number of uses, including as a teacher-training college and local GPO headquarters. By 1991, the site was nearly empty and the buildings were at risk of demolition for redevelopment.
+
+In February 1992, the Milton Keynes Borough Council declared most of the Park a conservation area, and the Bletchley Park Trust was formed to maintain the site as a museum. The site opened to visitors in 1993, and was formally inaugurated by HRH The Duke of Kent as Chief Patron in July 1994. In 1999, the Trust concluded an agreement with the landowner, giving control over much of the site to the Trust.[clarification needed][90]
+
+Museum[edit]
+
+View of the back of the rebuilt Bombe[91]
+Block B houses the main collection relating to the wartime codebreaking efforts, including the rebuilt bombe[92] and the Enigma machine collection, extensive displays relating to wartime codebreaking and espionage generally, and Stephen Kettle's life-size statue (2007) of Alan Turing,[93]
+
+As well as The National Museum of Computing, the park is also home to a number of other exhibits.[94]
+
+The Mansion
+Bletchley Park Garage
+Home Front Display exhibits include rationing, evacuation, the Blitz, war-time wash day, and "Make Do & Mend".
+The American Garden Trail – celebrates the continuing links between the UK and the US which were so important to victory
+65th Nachrichten Abteilung – a German World War II Signals Group, depicting a receiving and transmitting station with many items of original equipment, including an Enigma machine.
+Pigeons at War – tells of the important role played by Britain's 250,000 homing pigeons during the war.
+Children's Corner
+On 18 June 2014, the museum was officially re-opened by Catherine, Duchess of Cambridge when it was revealed that her paternal grandmother, Valerie, and Valerie's twin sister, Mary (née Glassborow) had both worked at Bletchley Park during the war. The twin sisters both worked as Foreign Office Civilians in Hut 6, where they managed the interception of enemy and neutral diplomatic signals for decryption. Valerie married Catherine's grandfather Peter Middleton, who was a civilian staff member at Bletchley.[95][96][97]
+
+National Museum of Computing[edit]
+Main article: The National Museum of Computing
+
+Tony Sale supervising the breaking of an enciphered message with the completed Colossus computer rebuild in 2006
+The National Museum of Computing is housed in Block H, which is rented from the Bletchley Park Trust. Its Colossus and Tunny galleries tell an important part of allied breaking of German codes during World War II. There is a working reconstruction of a Colossus computer that was used on the high-level Lorenz cipher, codenamed Tunny by the British.[98]
+
+The museum, which opened in 2007, is an independent voluntary organisation that is governed by its own board of trustees. Its aim is "To collect and restore computer systems particularly those developed in Britain and to enable people to explore that collection for inspiration, learning and enjoyment."[99] Through its many exhibits, the museum displays the story of computing through the mainframes of the 1960s and 1970s, and the rise of personal computing in the 1980s. It has a policy of having as many of the exhibits as possible in full working order.
+
+The Colossus and Tunny galleries are open daily. The rest of the Museum is open to the public every Thursday, Saturday and Sunday afternoons and most bank holidays, and by appointment for groups only, at other times. There are guided tours on Tuesday afternoons. There is a modest admission charge to the museum to help cover overheads.
+
+RSGB National Radio Centre[edit]
+The Radio Society of Great Britain's National Radio Centre (including a library, radio station, museum and bookshop) are in a newly constructed building on Bletchley's grounds.[clarification needed] [100][101]
+
+Funding[edit]
+In October 2005, American billionaire Sidney Frank donated £500,000 to Bletchley Park Trust to fund a new Science Centre dedicated to Alan Turing.[102] In July 2008 a letter to The Times from more than a hundred academics condemned the neglect of the site.[103][104] In September 2008, PGP, IBM, and other technology firms announced a fund-raising campaign to repair the facility.[105] On 6 November 2008 it was announced that English Heritage would donate £300,000 to help maintain the buildings at Bletchley Park, and that they were in discussions regarding the donation of a further £600,000.[106]
+
+In October 2011, the Bletchley Park Trust received a £4.6m Heritage Lottery Fund grant to be used "to complete the restoration of the site, and to tell its story to the highest modern standards.", on the condition that £1.7m of 'match funding' is raised by the Bletchley Park Trust.[107][108] Just weeks later Google contributed £550k[109] and by June 2012 the trust had successfully raised £2.4m to unlock the grants to restore Huts 3 and 6, as well as develop its exhibition centre in Block C.[110]
+
+Additional income is raised by renting Block H to the National Museum of Computing, and some office space in various parts of the park to private firms.[111][112][113]
+
+In popular culture[edit]
+
+This article may contain minor, trivial or unrelated fictional references. Trivia or references unimportant to the overall plot of a work of fiction should be edited to explain their importance or deleted. (February 2015)
+
+German U-boat model used in the film Enigma
+Bletchley Park was featured in the sixth and final episode of the 1977 BBC TV documentary The Secret War, presented and narrated by William Woodard. This episode featured interviews with Gordon Welchman, Harry Golombek, Peter Calvocoressi, F. W. Winterbotham, Max Newman, Jack Good and Tommy Flowers.
+The 1979 ITV television serial Danger UXB featured the character Steven Mount, who was a codebreaker at Bletchley, and was driven to a nervous breakdown (and eventual suicide) by the stressful and repetitive nature of the work.
+Ian McEwan's 1980 television play The Imitation Game concludes at Bletchley Park.
+The 1986 play Breaking the Code is also set at Bletchley.
+A fictionalised version of Bletchley Park is featured in the 1999 novel Cryptonomicon by Neal Stephenson.
+Bletchley came to wider public attention with the 1999 documentary series Station X.
+Bletchley featured heavily in the 1995 novel Enigma and its 2001 film adaptation; although filming was done at nearby Chicheley Hall.
+The Second World War code-breaking sitcom pilot "Satsuma & Pumpkin" was recorded at Bletchley Park in 2003 and featured Bob Monkhouse, OBE in his last ever screen role. The BBC declined to produce the show and develop it further before creating effectively the same show on Radio 4 several years later, featuring some of the same cast, entitled Hut 33.[114] Parts of the unseen pilot are to be shown on documentaries about Bob Monkhouse on both ITV and BBC in 2010.[115]
+Bletchley Park plays a significant role in the Connie Willis 2010 novel All Clear.
+The Bletchley Circle (ITV, 2012) is a set of murder mysteries set in 1952 and 1953, the first series telling a story of how four female former Bletchley code breakers use their skills to track down a serial killer. The opening scene of part one was filmed on-site, and the set was asked to remain there for its close adaptation of historiography.[116][117]
+The film The Imitation Game (2014) starring Benedict Cumberbatch as Alan Turing is set in Bletchley Park.
+Location[edit]
+Bletchley Park is located in Milton Keynes Bletchley Park
+Bletchley Park, in south Milton Keynes.
+(Openstreetmap mapping © Openstreetmap contributors). zoom in
+Bletchley Park is close to Bletchley Railway Station and just off the B4034 (Bletchley—Buckingham) road.
+
+See also[edit]
+Arlington Hall
+Beeston Hill Y Station
+Danesfield House
+Far East Combined Bureau in Hong Kong prewar, then Singapore, Colombo (Ceylon) and Kilindini (Kenya)
+List of people associated with Bletchley Park
+National Cryptologic Museum
+Newmanry
+OP-20-G, the US Navy's cryptanalysis office in Washington, D.C.
+Testery
+Wireless Experimental Centre operated by the Intelligence Corps outside Delhi
+Y-stations
+References[edit]
+Notes
+Jump up ^ Hinsley 1996
+Jump up ^ Morrison, p. 89
+Jump up ^ Edward, Legg (1999), "Early History of Bletchley Park 1235–1937", Bletchley Park Trust Historic Guides (1)
+Jump up ^ Morrison
+Jump up ^ Morrison, pp. 102–103
+Jump up ^ McKay 2010, p. 11
+Jump up ^ Briggs 2011, p. 1
+Jump up ^ Aldrich 2010, p. 69
+Jump up ^ Erskine & Smith 2011, p. 14
+Jump up ^ Budiansky 2000, p. 112
+Jump up ^ Hill 2004, pp. 13–23
+Jump up ^ McKay, Sinclair (26 Aug 2010), "Telegraph crossword: Cracking hobby won the day – The boffins of Bletchley cut their teeth on the Telegraph crossword", The Telegraph
+Jump up ^ Briggs 2011, pp. 3–4
+Jump up ^ Twinn 1993, p. 125
+Jump up ^ Hodges, Andrew (1992), Alan Turing: The Enigma, London: Vintage, p. 148, ISBN 978-0099116417
+Jump up ^ Welchman 1997, p. 11
+Jump up ^ Taunt, Derek, Hut 6: 1941-1945, p. 101 in Hinsley & Stripp 1993, pp. 100–112
+Jump up ^ Good, Jack, Enigma and Fish, p. 154 in Hinsley & Stripp 1993, pp. 149–166
+Jump up ^ Tutte, William T. (2006), My Work at Bletchley Park Appendix 4 in Copeland 2006, pp. 352–9
+Jump up ^ Grey 2012, p. 133
+Jump up ^ Burman, Annie. "Gendering decryption – decrypting gender The gender discourse of labour at Bletchley Park 1939–1945" (PDF). Retrieved 27 October 2013.
+Jump up ^ "Women Codebreakers". Bletchley Park Research. Retrieved 3 November 2013.
+Jump up ^ Hill 2004, pp. 62–71
+Jump up ^ BBC News UK: Saving Bletchley for the nation, 2 June 1999, retrieved 2 February 2011
+Jump up ^ McKay 2010, p. 14
+Jump up ^ Kahn1991, p. 185
+Jump up ^ Copeland 2004, p. 336
+^ Jump up to: a b Smith 1999, pp. 79, 82 Cite error: Invalid <ref> tag; name "Smith89P205-6" defined multiple times with different content (see the help page).
+Jump up ^ McKay 2010, pp. 70, 102, 105
+Jump up ^ Smith 2014, pp. 31–32
+^ Jump up to: a b Milner-Barry 1993, p. 92
+Jump up ^ Hinsley & Stripp 1993, p. vii
+Jump up ^ Hill 2004, pp. 128–9
+Jump up ^ Sale, Tony, Information flow from German ciphers to Intelligence to Allied commanders., retrieved 30 June 2011
+Jump up ^ Smith 1999, pp. 2–3
+Jump up ^ Taylor 1993, pp. 71, 72
+Jump up ^ Bletchley Park National Codes Centre, The Cafe in Hut 4, retrieved 3 April 2011
+Jump up ^ Bennett 1999, p. 302
+Jump up ^ Calvocoressi 2001, pp. 70–81
+^ Jump up to: a b Calvocoressi 2001, p. 29
+Jump up ^ Erskine 2011, p. 170
+^ Jump up to: a b Watson 1993, p. 307
+Jump up ^ Smith & Butters 2007, p. 10
+Jump up ^ Pidgeon 2003
+Jump up ^ Watson, Bob, Appendix: How the Bletchley Park buildings took shape, pp. 306–310 in Hinsley & Stripp 1993, pp. 149–166
+Jump up ^ Some of this information has been derived from The Bletchley Park Trust's Roll of Honour.
+Jump up ^ Smith & Butters 2007
+Jump up ^ Tony Sale "Bletchley Park Tour", Tour 3
+Jump up ^ Sale, Tony, Virtual Wartime Bletchley Park: Alan Turing, the Enigma and the Bombe, retrieved 7 July 2011
+Jump up ^ McKay 2010 p52
+Jump up ^ Millward 1993, p. 17
+Jump up ^ Dakin 1993, p. 50
+Jump up ^ Seventy Years Ago This Month at Bletchley Park: July 1941, retrieved 8 July 2011
+Jump up ^ Welchman 1997
+Jump up ^ Loewe 1993, p. 260
+Jump up ^ Scott 1997
+Jump up ^ Kahn 1991, pp. 189–90
+Jump up ^ Tony Sale "Bletchley Park Tour", Tour 4
+Jump up ^ "Beaumanor & Garats Hay Amateur Radio Society "The operational huts"". Archived from the original on 13 November 2007.
+Jump up ^ Twinn 1993, p. 127
+Jump up ^ The British Bombe: CANTAB The Rebuild Project
+Jump up ^ Budiansky 2000, p. 195
+Jump up ^ Sebag-Montefiore 2004, p. 375
+Jump up ^ Carter, Frank (2004), From Bombe Stops to Enigma Keys (PDF), Bletchley Park Codes Centre, retrieved 31 March 2010
+Jump up ^ Ellsbury, Graham (1988), "2. Description of the Bombe", The Turing Bombe: What it was and how it worked, retrieved 1 May 2010
+Jump up ^ Carter, Frank, "The Turing Bombe", The Rutherford Journal, ISSN 1177-1380
+Jump up ^ "Outstations from the Park", Bletchley Park Jewels, retrieved 16 April 2010
+Jump up ^ Toms, Susan (2005), Enigma and the Eastcote connection, retrieved 16 April 2010
+Jump up ^ Welchman 1997, p. 141
+Jump up ^ Smith 2006, p. 34
+Jump up ^ Gross, Kuno, Michael Rolke and András Zboray, Operation SALAM - László Almásy’s most daring Mission in the Desert War, Belleville, München, 2013
+Jump up ^ Grey 2012, pp. 132–3
+Jump up ^ Batey, Mavis (2011), Breaking Italian Naval Enigma, p. 81 in Erskine & Smith 2011, pp. 79–92
+Jump up ^ Hinsley, Sir Harry (1996) [1993], The Influence of ULTRA in the Second World War, archived from the original on 6 July 2012, retrieved 23 July 2012 Transcript of a lecture given on Tuesday 19 October 1993 at Cambridge University
+Jump up ^ Dakin, Alec Naylor (1993), The Z Watch in Hut 4, Part I in Hinsley & Stripp 1993, pp. 50–56
+Jump up ^ Wilkinson, Patrick (1993), Italian naval ciphers in Hinsley & Stripp 1993, pp. 61–67
+Jump up ^ "July 1941". Bletchley Park. Retrieved 23 February 2013.
+Jump up ^ Anna Pukas (28 April 2012). "Our family war heroes". Daily Express.
+Jump up ^ Hinsley, Harry British Intelligence in the Second World War, Volume One: Its Influence on Strategy and Operations (1979, Her Majesties Stationery Office, London) pp 191–221, 570–2 ISBN 0 11 630933 4
+Jump up ^ Smith, Michael (2011), The Government Code and Cypher School and the First Cold War, pp. 13–34 in Erskine & Smith 2011
+Jump up ^ Smith, Michael. "Mombasa was base for high-level UK espionage operation". coastweek.com. Coastweek. Retrieved 20 June 2013.
+Jump up ^ Smith 2001, pp. 127–51
+Jump up ^ Hill 2004, pp. 129–35
+Jump up ^ Lewin 2001, p. 64
+Jump up ^ Thirsk 2008, pp. 61–68
+Jump up ^ Winterbotham, F. W. (1974), The Ultra Secret, London: Weidenfeld & Nicolson
+Jump up ^ Withers-Green, Sheila (2010), audiopause audio: I made a promise that I wouldn't say anything, retrieved 15 July 2011
+Jump up ^ "Enigma codebreakers to be honoured finally", The Daily Telegraph
+Jump up ^ BellaOnline "Britain's Best Kept Secret"
+Jump up ^ Bletchley Park Trust "Bletchley Park History"
+Jump up ^ Harper, John (2008), Bombe Rebuild Project, retrieved 24 March 2011
+Jump up ^ John Harper "The British Bombe"
+Jump up ^ "Bletchley Park Unveils Statue Commemorating Alan Turing". Retrieved 30 June 2007.
+Jump up ^ What to see at Bletchley Park, Bletchley Park Trust, retrieved 26 May 2015
+Jump up ^ "Valerie Glassborow, Bletchley Park Veteran and Grandmother of HRH The Duchess of Cambridge". BletchleyPark.org.uk. 17 June 2014. Retrieved 30 September 2015.
+Jump up ^ Code me, Kate: British royal opens museum at restored WWII deciphering center, Bletchley Park
+Jump up ^ Duchess of Cambridge opens Bletchley Park restored centre
+Jump up ^ Tony Sale "The Colossus Rebuild Project"
+Jump up ^ Mission Statement of The National Museum of Computing, CodesandCiphers Heritage Trust, retrieved 8 April 2014
+Jump up ^ "National Radio Centre Official Opening", RadCom (Radio Society of Great Britain) 88 (8), August 2012: 12
+Jump up ^ David Summer, K1ZZ (October 2012). "RSGB opens showcase for amateur radio at Bletchley Park". QST (The American Radio Relay League) 96 (10): 96.
+Jump up ^ Action This Day, Bletchley Park News, 28 February 2006
+Jump up ^ "Saving the heritage of Bletchley Park (Letter)", The Times
+Jump up ^ "Neglect of Bletchley condemned", BBC News.
+Jump up ^ PGP, IBM help Bletchley Park raise funds
+Jump up ^ "New lifeline for Bletchley Park", BBC News.
+Jump up ^ "Bletchley Park wins #pound;4.6m Heritage Lottery Fund grant", BBC News, 5 October 2011
+Jump up ^ It’s Happening!: The Long-Awaited Restoration of Historic Bletchley Park, Bletchley Park Trust, retrieved 7 April 2014
+Jump up ^ Google gives £550k to Bletchley Park, The Register
+Jump up ^ "Bletchley Park gets £7.4m to tart up WWII code-breaking huts", "The Register", 27 June 2012
+Jump up ^ BPSIC: Bletchley Park Science and Innovation Centre, retrieved 30 January 2013
+Jump up ^ Bletchley Park Science and Innovation Centre, Bletchley Park Trust, retrieved 30 January 2013
+Jump up ^ Bletchley Park Science and Innovation Centre, retrieved 7 July 2011
+Jump up ^ BBC Radio 4 — Comedy — Hut 33
+Jump up ^ Youngs, Ian (19 March 2004). "Bob Monkhouse's last laugh". BBC News.
+Jump up ^ Hollingshead, Iain (4 September 2012). "What happened to the women of Bletchley Park?". The Daily Telegraph (London).
+Jump up ^ Shaw, Malcolm. "Bletchley Park drama to air on television". ITV. Retrieved 6 September 2012.
+Bibliography
+Aldrich, Richard J. (2010), GCHQ: The Uncensored Story of Britain's Most Secret Intelligence Agency, HarperCollins, ISBN 978-0-00-727847-3
+Bennett, Ralph (1999) [1994], Behind the Battle: Intelligence in the war with Germany, 1939–1945 (New and Enlarged ed.), London: Random House, ISBN 978-0-7126-6521-6
+Briggs, Asa (2011), Secret Days: Code-breaking in Bletchley Park, Barnsley, England: Frontline Books, ISBN 978-1-84832-615-6
+Budiansky, Stephen (2000), Battle of wits: The Complete Story of Codebreaking in World War II, Free Press, ISBN 978-0-684-85932-3
+Calvocoressi, Peter (2001) [1980], Top Secret Ultra, Cleobury Mortimer, Shropshire: M & M Baldwin, ISBN 0-947712-41-0
+Copeland, Jack (2004), Copeland, B. Jack, ed., The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma, ISBN 0-19-825080-0
+Copeland, B. Jack, ed. (2006), Colossus: The Secrets of Bletchley Park's Codebreaking Computers, Oxford: Oxford University Press, ISBN 978-0-19-284055-4
+Dakin, Alec (1993), The Z Watch in Hut 4, Part I in Hinsley & Stripp 1993, pp. 50–56
+Enever, Ted (1999), Britain's Best Kept Secret: Ultra's Base at Bletchley Park (3rd ed.), Sutton, ISBN 978-0-7509-2355-2
+Erskine, Ralph; Smith, Michael, eds. (2011), The Bletchley Park Codebreakers, Biteback Publishing Ltd, ISBN 978-1-84954-078-0 Updated and extended version of Action This Day: From Breaking of the Enigma Code to the Birth of the Modern Computer Bantam Press 2001
+Erskine, Ralph (2011), Breaking German Naval Enigma on Both Sides of the Atlantic in Erskine & Smith 2011, pp. 165–83
+Gannon, Paul (2006), Colossus: Bletchley Park’s Greatest Secret, Atlantic Books, ISBN 978-1-84354-331-2
+Gannon, Paul (2011), Inside Room 40: The Codebreakers of World War II, Ian Allen Publishing, ISBN 978-0-7110-3408-2
+Grey, Christopher (2012), Decoding Organization: Bletchley Park, Codebreaking and Organization Studies, Cambridge, England: Cambridge University Press, ISBN 978-1107005457
+Hill, Marion (2004), Bletchley Park People, Stroud, Gloucestershire: The History Press, ISBN 978-0-7509-3362-9
+Hilton, Peter (1988), Reminiscences of Bletchley Park, 1942–1945 (PDF), pp. 291–301, retrieved 13 September 2009 (CAPTCHA) (10-page preview from A Century of mathematics in America, Volume 1 By Peter L. Duren, Richard Askey, Uta C. Merzbach, see http://www.ams.org/bookstore-getitem/item=HMATH-1 ; ISBN 978-0-8218-0124-6).
+Hinsley, Harry (1996) [1993], The Influence of ULTRA in the Second World War, retrieved 13 February 2015 Transcript of a lecture given on Tuesday 19 October 1993 at Cambridge University
+Hinsley, F. H.; Stripp, Alan, eds. (1993) [1992], Codebreakers: The inside story of Bletchley Park, Oxford: Oxford University Press, ISBN 978-0-19-280132-6
+Kahn, David (1991), Seizing the Enigma: The Race to Break the German U-boat Codes, 1939–1943, Houghton Mifflin Co., ISBN 978-0-395-42739-2
+Large, Christine (2003), Hijacking Enigma: The Insider's Tale, John Wiley, ISBN 978-0-470-86346-6
+Lewin, Ronald (2001) [1978], Ultra Goes to War: The Secret Story, Classic Military History (Classic Penguin ed.), London, England: Hutchinson & Co, ISBN 978-1-56649-231-7
+Loewe, Michael (1993), Japanese naval codes in Hinsley & Stripp 1993, pp. 257–63
+Luke, Doreen (2005) [2003], My Road to Bletchley Park (3rd ed.), Cleobury Mortimer, Shropshire: M & M Baldwin, ISBN 978-0-947712-44-0
+Mahon, A. P. (1945), The History of Hut Eight 1939 – 1945, UK National Archives Reference HW 25/2, retrieved 10 December 2009
+Manning, Mick; Granström, Brita (2010), Taff in the WAAF, Frances Lincoln Children's Books, ISBN 978-1-84780-093-0
+McKay, Sinclair (2010), The Secret Life of Bletchley Park: the WWII Codebreaking Centre and the Men and Women Who Worked There, Aurum, ISBN 978-1-84513-539-3
+Millward, William (1993), Life in and out of Hut 3 in Hinsley & Stripp 1993, pp. 17–29
+Milner-Barry, Stuart (1993), Navy Hut 6: Early days in Hinsley & Stripp 1993, pp. 89–99
+O'Keefe, David. One Day In August - The Untold Story Behind Canada's Tragedy At Dieppe", Alfred A. Knopf Canada, 2013, ISBN 978-0-345-80769-4, 471 pgs
+Morrison, Kathryn, 'A Maudlin and Monstrous Pile': The Mansion at Bletchley Park, Buckinghamshire (PDF), English Heritage, retrieved 24 April 2012
+Pearson Ed., Joss (2011), Neil Webster's Cribs for Victory: The Untold Story of Bletchley Park's Secret Room, Polperro Heritage Press, ISBN 978-0-9559541-8-4
+Pidgeon, Geoffrey (2003), The Secret Wireless War: The story of MI6 communications 1939–1945, Universal Publishing Solutions Online Ltd, ISBN 978-1-84375-252-3
+Scott, Norman (April 1997), "Solving Japanese naval ciphers 1943–1945", Cryptologia 21 (2): 149–57, doi:10.1080/0161-119791885878
+Sebag-Montefiore, Hugh (2004) [2000], Enigma: The Battle for the Code (Cassell Military Paperbacks ed.), London: Weidenfeld & Nicolson, ISBN 978-0-297-84251-4
+Smith, Christopher (2014), "Operating secret machines: military women and the intelligence production line, 1939–1945", Women's History Magazine 76: 30–36, ISSN 1476-6760
+Smith, Christopher (2014), "How I learned to stop worrying and love the Bombe: Machine Research and Development and Bletchley Park", History of Science 52 (2): 200–222, doi:10.1177/0073275314529861
+Smith, Michael (1999) [1998], Station X: The Codebreakers of Bletchley Park, Channel 4 Books, p. 20, ISBN 978-0-7522-2189-2
+Smith, Michael (2000), The Emperor's Codes: Bletchley Park and the breaking of Japan's secret ciphers, Bantam Press, ISBN 0593 046412
+Smith, Michael (2001) [1999], "An Undervalued Effort: how the British broke Japan's Codes", in Smith, Michael; Erskine, Ralph, Action this Day, London: Bantam, ISBN 978-0-593-04910-5
+Smith, Michael (2006), How it began: Bletchley Park Goes to War in Copeland 2006, pp. 18–35
+Smith, Michael; Butters, Lindsey (2007) [2001], The Secrets of Bletchley Park: Official Souvenir Guide, Bletchley Park Trust
+Taylor, Telford (1993), Anglo-American signals intelligence co-operation in Hinsley & Stripp 1993, pp. 71–3
+Thirsk, James (2008), Bletchley Park: An Inmate's Story, Galago, ISBN 978-094699588-2
+Twinn, Peter (1993), The Abwehr Enigma in Hinsley & Stripp 1993, pp. 123–31
+Watkins, Gwen (2006), Cracking the Luftwaffe Codes, Greenhill Books, ISBN 978-1-85367-687-1
+Watson, Bob (1993), Appendix: How the Bletchley Park buildings took shape in Hinsley & Stripp 1993, pp. 306–10
+Welchman, Gordon (1997) [1982], The Hut Six story: Breaking the Enigma codes, Cleobury Mortimer, England: M&M Baldwin, ISBN 9780947712341 New edition with addendum by Welchman correcting his misapprehensions in the 1982 edition.
+External links[edit]
+	Wikimedia Commons has media related to Bletchley Park.
+Bletchley Park Trust
+Roll of Honour: List of the men and women who worked at Bletchley Park and the Out Stations during WW2, retrieved 9 July 2011
+Bletchley Park — Virtual Tour — by Tony Sale
+The National Museum of Computing (based at Bletchley Park)
+The RSGB National Radio Centre (based at Bletchley Park)
+New hope of saving Bletchley Park for nation at the Wayback Machine (archived November 13, 2007) (Daily Telegraph 3 March 1997)
+Boffoonery! Comedy Benefit For Bletchley Park Comedians and computing professionals stage comedy show in aid of Bletchley Park
+Bletchley Park: It's No Secret, Just an Enigma, The Telegraph, 29 August 2009
+Bletchley Park is official charity of Shed Week 2010 — in recognition of the work done in the Huts
+Saving Bletchley Park blog by Sue Black
+19 minute Video interview on YouTube with Sue Black by Robert Llewellyn about Bletchley Park
+Douglas, Ian (25 December 2012), "Bletchley's forgotten heroes", The Telegraph
+C4 Station X 1999 on DVD here
+Authority control
+VIAF: 221287859 GND: 4358149-3
+Categories: Cryptography organizationsMilton KeynesLocations in the history of espionageCountry houses in BuckinghamshireVisitor attractions in BuckinghamshireWorld War II sites in the United KingdomMuseums in BuckinghamshireBletchley ParkBritish Telecom buildings and structuresMilitary and war museums in EnglandHistoric house museums in BuckinghamshireToy museums in EnglandBiographical museums in BuckinghamshireSignals intelligence of World War IIHistory museums in BuckinghamshireWorld War II museums in the United KingdomTelecommunications museums in the United KingdomMuseums established in 19931993 establishments in England
+Navigation menu
+Create accountNot logged inTalkContributionsLog inArticleTalkReadEditView history
+
+Search
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+???????
+?????????
+Català
+Cymraeg
+Dansk
+Deutsch
+????????
+Español
+Français
+???
+Italiano
+?????
+Magyar
+Nederlands
+???
+Norsk bokmål
+Polski
+Português
+Român?
+???????
+Simple English
+Suomi
+Svenska
+Türkçe
+??????????
+??
+Edit links
+This page was last modified on 21 October 2015, at 11:16.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile viewWikimedia Foundation Powered by MediaWiki
